@@ -1,4 +1,4 @@
-name = "SimilarityTheoryTurbulentFluxes"
+name = "BulkFormulaTurbulentFluxes"
 uuid = "6b6b4894-812f-4d60-bf78-49ec04e34ad0"
 authors = ["Gregory Wagner <wagner.greg@gmail.com>"]
 version = "0.1.0"

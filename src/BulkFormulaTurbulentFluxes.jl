@@ -1,4 +1,4 @@
-module SimilarityTheoryTurbulentFluxes
+module BulkFormulaTurbulentFluxes
 
 export compute_turbulent_fluxes
 
@@ -46,4 +46,4 @@ include("constant_exchange_coefficients.jl")
 # include("self_similar_boundary_layers.jl")
 # include("compute_turbulent_fluxes.jl")
 
-end # module SimilarityTheoryTurbulentFluxes
+end # module BulkFormulaTurbulentFluxes
